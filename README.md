@@ -1,1 +1,1 @@
-<img src="mobileproject.jpg" alt="SmartBite App" width="300">
+<img src="mobileproject.jg" alt="SmartBite App" style="max-width: 100%; height: auto;">
