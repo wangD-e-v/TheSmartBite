@@ -12,13 +12,13 @@ import ReactNativeAsyncStorage from "@react-native-async-storage/async-storage";
 
 // Firebase Configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCABfwE17zXBBDvziIXYtgObkLoVjOJiOY",
-  authDomain: "smartbiteapp-c8629.firebaseapp.com",
-  projectId: "smartbiteapp-c8629",
-  storageBucket: "smartbiteapp-c8629.appspot.com",
-  messagingSenderId: "193786473701",
-  appId: "1:193786473701:web:1d517ed83b20733b77b80c",
-  measurementId: "G-XRJGP0JX7X"
+  apiKey: "hidden",
+  authDomain: "hidden",
+  projectId: "hidden",
+  storageBucket: "hidden",
+  messagingSenderId: "hidden",
+  appId: "hidden",
+  measurementId: "hidden"
 };
 
 // Initialize Firebase App
